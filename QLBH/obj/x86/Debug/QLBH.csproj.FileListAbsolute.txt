@@ -1,0 +1,10 @@
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Debug\QLBH.Form1.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Debug\QLBH.Form2.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Debug\QLBH.Form_hoadon.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Debug\QLBH.Form_KH.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Debug\QLBH.Properties.Resources.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Debug\QLBH.csproj.GenerateResource.Cache
+E:\WINMFORM_C#\QLBH\QLBH\bin\Debug\QLBH.exe
+E:\WINMFORM_C#\QLBH\QLBH\bin\Debug\QLBH.pdb
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Debug\QLBH.exe
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Debug\QLBH.pdb

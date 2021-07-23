@@ -1,0 +1,11 @@
+E:\WINMFORM_C#\QLBH\QLBH\bin\Release\QLBH.exe
+E:\WINMFORM_C#\QLBH\QLBH\bin\Release\QLBH.pdb
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Release\QLBH.Form1.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Release\QLBH.Form2.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Release\QLBH.Form_hoadon.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Release\QLBH.Form_KH.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Release\QLBH.Properties.Resources.resources
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Release\QLBH.csproj.GenerateResource.Cache
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Release\QLBH.exe
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Release\QLBH.pdb
+E:\WINMFORM_C#\QLBH\QLBH\obj\x86\Release\QLBH.csprojResolveAssemblyReference.cache
